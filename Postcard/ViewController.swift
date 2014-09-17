@@ -5,6 +5,7 @@
 //  Created by Rob Notman on 9/15/14.
 //  Copyright (c) 2014 jenpat. All rights reserved.
 //
+// Another comment to test commits (Git)
 
 import UIKit
 
