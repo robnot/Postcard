@@ -1,5 +1,4 @@
 Postcard
 ========
 
-bitFountain project
-bitFountain project number one!
+bitFountain project #1
