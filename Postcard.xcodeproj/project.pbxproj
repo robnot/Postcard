@@ -30,6 +30,7 @@
 /* Begin PBXFileReference section */
 		E161604F19C7DB2C00D0B119 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
 		E161605119C7DB5000D0B119 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
+		E161605319CA604F00D0B119 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = ../../../../Desktop/MyPlayground.playground; sourceTree = "<group>"; };
 		E18CC79119C7911300E4B48E /* Postcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Postcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E18CC79519C7911300E4B48E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E18CC79619C7911300E4B48E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +85,7 @@
 				E18CC79619C7911300E4B48E /* AppDelegate.swift */,
 				E18CC79819C7911300E4B48E /* ViewController.swift */,
 				E18CC79A19C7911300E4B48E /* Main.storyboard */,
+				E161605319CA604F00D0B119 /* MyPlayground.playground */,
 				E18CC79D19C7911300E4B48E /* Images.xcassets */,
 				E18CC79F19C7911300E4B48E /* LaunchScreen.xib */,
 				E18CC79419C7911300E4B48E /* Supporting Files */,
